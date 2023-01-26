@@ -5,7 +5,7 @@
 - To know more about me you can checkout my Linkedin account
 ## [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Dwip Dalal](https://www.linkedin.com/in/dwip-dalal-a7a440190)&nbsp;
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwipddalal&count_private=true&show_icons=true&theme=dark) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwipddalal&count_private=true&show_icons=true&theme=dark)
 
 <!---
 dwipddalal/dwipddalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
