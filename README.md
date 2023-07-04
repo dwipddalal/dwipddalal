@@ -2,10 +2,11 @@
 
 - 🌱 Welcome to my repository
 - 🔭 I am a 3rd-year undergrad at IIT Gandhinagar. I adore algorithms and maths in general and AI in particular. Making machine learning models to solve challenges in the field of robotics is something I really enjoy doing.
-- 🔭 Currently, I am working as a ML Research intern at TCS Research India for devising a reference-free metric for Multimodal fashion dataset.
-- 👯 Open to collaborate on projects on computer vision and natural language processing.
-<!-- - ⚡ Fun fact: I'm visiting **University of British Columbia** in the coming summer as a research intern to work on creating behavioural videos from brain data under prof Yankai Cao, as part of MITACS GRI Program! -->
+- 🔭 Currently, I am working as an ML Research intern at TCS Research India to devise a reference-free metric for a Multimodal fashion dataset.
+- 👯 Open to collaborating on computer vision and natural language processing projects.
+<!-- - ⚡ Fun fact: I'm visiting **University of British Columbia** in the coming summer as a research intern to work on creating behavioral videos from brain data under prof Yankai Cao, as part of MITACS GRI Program! -->
 - 📫 Reach me at dwip.dalal@iitgn.ac.in, visit my  ([website](https://dwipddalal.github.io/)), checkout my Linkedin account [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Dwip Dalal](https://www.linkedin.com/in/dwip-dalal-a7a440190)&nbsp;
+- Fun fact: I'm currently in UBC Vancouver, for the summer research internship under Prof. Yankai Cao, as part of their MITACS program!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwipddalal&count_private=true&show_icons=true&theme=dark)
