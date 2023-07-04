@@ -6,7 +6,7 @@
 - 👯 Open to collaborating on computer vision and natural language processing projects.
 <!-- - ⚡ Fun fact: I'm visiting **University of British Columbia** in the coming summer as a research intern to work on creating behavioral videos from brain data under prof Yankai Cao, as part of MITACS GRI Program! -->
 - 📫 Reach me at dwip.dalal@iitgn.ac.in, visit my  ([website](https://dwipddalal.github.io/)), checkout my Linkedin account [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Dwip Dalal](https://www.linkedin.com/in/dwip-dalal-a7a440190)&nbsp;
-- Fun fact: I'm currently in UBC Vancouver, for the summer research internship under Prof. Yankai Cao, as part of their MITACS program!
+- ⚡ Fun fact: I'm currently in UBC Vancouver, for the summer research internship under Prof. Yankai Cao, as part of their MITACS program!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwipddalal&count_private=true&show_icons=true&theme=dark)
