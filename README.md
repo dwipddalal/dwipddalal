@@ -8,7 +8,7 @@
 - ⚡ Fun fact:  In the summer of 2023, I had a remarkable experience as a MITACS GRI at the University of British Columbia in Vancouver, working on multimodal representation learning with a focus on video and brain signals.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwipddalal&count_private=true&show_icons=true&theme=dark)
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwipddalal&count_private=true&show_icons=true&theme=dark)
 
 <!---
 dwipddalal/dwipddalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
