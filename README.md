@@ -1,4 +1,4 @@
- # Hi...!!!
+ # Hi there!
 
 - 🌱 Welcome to my repository
 - 🔭 I am a 4th-year undergrad at IIT Gandhinagar. I adore algorithms and maths in general and AI in particular. Making machine learning models to solve challenges in the fields of vision, language, and robotics is something I really enjoy doing.
