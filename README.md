@@ -1,12 +1,12 @@
  # Hi...!!!
 
 - 🌱 Welcome to my repository
-- 🔭 I am a 3rd-year undergrad at IIT Gandhinagar. I adore algorithms and maths in general and AI in particular. Making machine learning models to solve challenges in the field of robotics is something I really enjoy doing.
+- 🔭 I am a 4th-year undergrad at IIT Gandhinagar. I adore algorithms and maths in general and AI in particular. Making machine learning models to solve challenges in the fields of vision, language, and robotics is something I really enjoy doing.
 - 🔭 Currently, I am working as an ML Research intern at TCS Research India to devise a reference-free metric for a Multimodal fashion dataset.
 - 👯 Open to collaborating on computer vision and natural language processing projects.
 <!-- - ⚡ Fun fact: I'm visiting **University of British Columbia** in the coming summer as a research intern to work on creating behavioral videos from brain data under prof Yankai Cao, as part of MITACS GRI Program! -->
 - 📫 Reach me at dwip.dalal@iitgn.ac.in, visit my  ([website](https://dwipddalal.github.io/)), checkout my Linkedin account [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Dwip Dalal](https://www.linkedin.com/in/dwip-dalal-a7a440190)&nbsp;
-- ⚡ Fun fact: I'm currently in UBC Vancouver for the summer research internship under Prof. Yankai Cao as part of their MITACS program!
+- ⚡ Fun fact:  In the summer of 2023, I had a remarkable experience as a MITACS GRI at the University of British Columbia in Vancouver, working on multimodal representation learning with a focus on video and brain signals.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwipddalal&count_private=true&show_icons=true&theme=dark)
